@@ -81,7 +81,8 @@ Funtion: SetCommand1(), SetCommand2(), SetCommand3(), SetCommand4()
 This kind of functions can controll the movement of the robots
 Take SetCommand1() as an example:
 This function has two inputs: SetCommand1(velocity, angle)
-Since this kind of robots can only move forward or backword, you need to change its angle if you want it to move right or left or other directions
+Since this kind of robots can only move forward or backword, you need to change its angle if you want it to 
+move right or left or other directions
 ```
 I know it is kind of confusing to you because of my poor expression skill.
 <br> You can go to the file _irobot.py_ which is also in _robots_simulator/src/iRobot_create/src_ to see how to exactly controll the robots.
