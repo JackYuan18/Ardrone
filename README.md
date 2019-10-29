@@ -101,4 +101,21 @@ $ rosrun iRobot_create irobot.py
 ```
 and you can see the four robots following their own trajectory simultaneously.
 
-![image]()
+![image](https://github.com/Shicheng-Liu/Robots_Simulator/blob/master/move_simultaneously.gif)
+
+They are controller by the function _move()_ in _irobot.py_
+<br>
+<br>
+Or, they can also move one by one.
+
+![image](https://github.com/Shicheng-Liu/Robots_Simulator/blob/master/move_respectively.gif)
+
+They are controller by the functions _move1()  move2()  move3()  move4()_ respectively.
+
+
+Expectations
+--
+The first version of this simulator is created in September, 2019 with only the most fundamental functions. Hope this simulator will be cooler and fancier in the future by all you guys.
+<br>
+And great thanks to [Networked Robotic Systems Laboratory](http://php.scripts.psu.edu/muz16/index.php) to give me this opportunity to do what I am interested in.
+
