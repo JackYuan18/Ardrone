@@ -1,6 +1,6 @@
  Robots_Simulator
  ==
- The copyright of this repository and simulator belongs to Networked Robotic Systems Laboratory, The Pennsylvania State University.
+ The copyright of this repository and simulator belongs to Networked Robotic Systems Laboratory, The Pennsylvania State University. This repository is a backup of https://github.com/Shicheng-Liu/Robots_Simulator.git. 
  <br>
  **All Rights Reserved**
  <br>
